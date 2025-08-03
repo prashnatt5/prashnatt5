@@ -37,14 +37,14 @@
 ### 💬 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/sohankurale" target="_blank">
+  <a href="https://www.linkedin.com/in/prashant-kurale-b9aba8333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:sohankurale@gmail.com">
+  <a href="mailto:prashantkurale2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" />
+  <a href="https://www.geeksforgeeks.org/user/prashantkudkgq/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&style=for-the-badge" />
   </a>
 </p>
 
